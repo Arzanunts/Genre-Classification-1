@@ -1,6 +1,6 @@
 # Genre-Classification
 Использование методов МО для классификации жанров
-[https://disk.yandex.ru/d/z_QRcU0mWkp87Q](Spotify+Y.Music songs)
+[Spotify+Y.Music songs](https://disk.yandex.ru/d/z_QRcU0mWkp87Q)
 **Задача**:
 Классифицировать жанры по аудиофайлу, используя классические методы машинного обучения. 
 
