@@ -1,4 +1,7 @@
 # Genre-Classification
+
+### ROC-AUC - целевая метрика. ROC-AUC для валидационной - 0.8339
+
 Использование методов МО для классификации жанров
 [validation+Spotify+Y.Music songs](https://disk.yandex.ru/d/z_QRcU0mWkp87Q)
 
