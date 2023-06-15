@@ -20,6 +20,10 @@
 * yandex.csv - датасет из песен с Yandex Music
 * final.csv - объединенный датасет(Spotify+Y.Music)
 * valid.csv - датасет для теста
+* [Yandex_dataset.ipynb](https://github.com/TimRicMus/Genre-Classification/blob/main/Yandex_dataset.ipynb) - тетрадь, содержащая сборку датасета yandex.csv
+* [hyperparameters.ipynb](https://github.com/TimRicMus/Genre-Classification/blob/main/hyperparameters.ipynb) - подбор гиперпараметров
+* [Project_models.ipynb](https://github.com/TimRicMus/Genre-Classification/blob/main/Project_models.ipynb) - тетрадь Feature Engineering
+* [Dataset_valid.ipynb](https://github.com/TimRicMus/Genre-Classification/blob/main/Dataset_valid.ipynb) - тетрадь со сборкой валидационной выборки
 ### Feature Engineering:
 В качестве анализа данных были рассмотрены, например, доверительные интервалы
 
